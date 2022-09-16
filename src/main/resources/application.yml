@@ -18,6 +18,6 @@ mybatis-plus:
     db-config:
       id-type: ASSIGN_ID
 reggie:
-  path: /data/reggiedata/reggieImages
+  path: /data/reggiedata/reggieImages/
 
 
